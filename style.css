@@ -1,0 +1,45 @@
+body {
+  font-family: "Hiragino Kaku Gothic ProN", "メイリオ", sans-serif;
+}
+
+h1 {
+  margin: 0 auto;
+  font-size: 20px;
+  background-color: lightgray;
+  border-left: 5px solid red;
+  margin: 20px;
+  padding: 5px 5px 5px 10px;
+  width: 100%;
+}
+
+form {
+  margin: 0 auto;
+  font-size: 15px;
+  color: gray;
+  background-color: whitesmoke;
+  border: 1px solid lightgray;
+  border-radius: 4px;
+  width: 40%;
+}
+
+div {
+  margin: 5px 5px 1em 5px;
+  padding: 10px;
+}
+
+.text,
+textarea {
+  border: 1px solid lightgray;
+}
+
+.dropdown {
+  border: 1px solid lightgray;
+}
+
+.submit {
+  color: white;
+  background-color: lightgray;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  border-bottom: 2px solid gray;
+}
